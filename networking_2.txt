@@ -1,0 +1,39 @@
+OSI model 
+open systems interconnection 
+
+1. application layer eg - SMTP TELLNET DNS
+2. presentation layer -> translation , encryption , compression eg- SSL HTTP
+3. session layer -> endpoints 
+4. transport layer -> UDP TCP
+5. network layer -> router , logical addressing(IP addressing) -> packets recived 
+6. Data link layer -> physical addressing (mac addressing) -> converted to frames 
+7. Physiscal layer -> wires and all
+
+tcp/ip  model -> 
+5 layers 
+1. application 
+2. transport 
+3. network 
+4. datalink 
+5. physical 
+
+protocalls ->  common rules to communicate 
+
+1 APPLication layer -> end user intract with this layer 
+
+P2P -> peer to peer ->  no 1 dedicated server 
+every system is client as server both
+decentralised network 
+
+
+bridge ->  repeater that can filter out things 
+gateway -> connect to neworks 
+
+socket -> interface betwen a process and the internet 
+used in IPC 
+named contact points between two processes 
+
+ports -> ephermal ports -> client side -> random port numbers assigned then de-assigned
+
+http -> use tcp (in transport layer)
+do not store the state 

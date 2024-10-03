@@ -1,0 +1,49 @@
+network -> computers connected together 
+
+internet -> interconnected networks 
+
+ARPA -> advance recerch projects agency 
+arpanet -> MIT , Stanford , UCLA , Utah 
+
+TCP -> trancmission control protocall 
+
+common rules -> protocall  (enables communication)
+
+tcp/ip -> transmission control protocall / internet protocall 
+
+WWW -> world wide web 
+(store and access)
+-> introduced hypertext 
+-> collections of all these web pages 
+
+ipaddress -> denotes the device 
+port -> will denote the application 
+ipaddress/port number 
+
+router is connected to the ISP not device directly the device will send request to router then router will send the request to ISP and etch the result and send it to the device who wanted it 
+
+device will be identified with the help of its IP address then port number 
+
+port nunmber -> 16 bits -> 2^16 ports -> around 65000
+
+ex -  HTTP -> 80 
+
+0-1023 -> reserved 
+1024 - 49125 -> used by applications 
+
+remaining can be used by us 
+
+communication -> guided way / unguided way 
+
+guided way -> wired medium 
+unguided way -> wireless medium
+
+cables ->  optical fibre cable(light based transfer , fragile , fast) , coaxial cable(LAN cable) etc 
+
+WAN ->  SONET  -> suncronous optical network
+        Frame vellay 
+
+modem -> modulator/demodulator -> digital signals to electrical and electrical to digital 
+
+topologies -> bus , ring , star , mesh , tree , hybrid 
+
